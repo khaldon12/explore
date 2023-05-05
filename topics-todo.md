@@ -67,7 +67,8 @@ Information included in this repository will appear on each topic's respective p
 - [x] [ai](https://github.com/topics/ai/)
 - [x] [ajax](https://github.com/topics/ajax/)
 - [x] [artificial-intelligence](https://github.com/topics/artificial-intelligence/)
-- [x] [bioinformatics](https://github.com/topics/bioinformatics/)
+- [x] [bioinformatics](https://github.com/topics/bioinf2
+ormatics/)
 - [x] [blockchain](https://github.com/topics/blockchain/)
 - [x] [chrome](https://github.com/topics/chrome/)
 - [x] [compiler](https://github.com/topics/compiler/)
@@ -92,3 +93,4 @@ Information included in this repository will appear on each topic's respective p
 - [x] [winforms](https://github.com/topics/winforms/)
 - [x] [wpf](https://github.com/topics/wpf/)
 - [x] [xml](https://github.com/topics/xml/)
+
